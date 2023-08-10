@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
         ),
         body: const Center(
-          child: Text('Hello World from Costa Rica'),
+          child: Text('Hello World from Costa Ricas'),
         ),
       ),
     );
