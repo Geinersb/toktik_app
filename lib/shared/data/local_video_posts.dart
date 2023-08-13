@@ -1,12 +1,12 @@
 List<Map<String, dynamic>> videoPosts = [
   {
-    'name': 'Subiendo escaleras automáticas',
+    'name': 'Paisaje precioso de admirar',
     'videoUrl': 'assets/videos/1.mp4',
     'likes': 23230,
     'views': 1523,
   },
   {
-    'name': 'Planta apreciada por peatones',
+    'name': 'Ciudad apreciada desde las alturas',
     'videoUrl': 'assets/videos/2.mp4',
     'likes': 24230,
     'views': 1343,
